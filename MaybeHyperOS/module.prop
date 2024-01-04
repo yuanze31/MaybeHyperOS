@@ -1,0 +1,7 @@
+id=MaybeHyperOS
+name=小米澎湃OS开机动画
+version=v1.0
+versioncode=1
+author=原则31
+description=小米澎湃OS开机动画
+updateJson=https://yuanze31.github.io/magisk/MaybeHyperOS/update.json
